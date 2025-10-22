@@ -7,7 +7,7 @@ function greet(name) {
 
 
 function saluta(){
-  return "BUONASERA :) ";
+  return "buonanotte :) ";
 }
 
 module.exports = { greet, saluta };
