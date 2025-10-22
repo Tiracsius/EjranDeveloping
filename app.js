@@ -1,9 +1,13 @@
+const name = "ejran";
+
 function greet(name) {
   return `Hello, ${name}!`;
 }
 
-function nicolle(){
+
+
+function saluta(){
   return "BUONASERA :) ";
 }
 
-module.exports = { greet, nicolle };
+module.exports = { greet, saluta };
